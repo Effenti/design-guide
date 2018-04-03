@@ -34,7 +34,12 @@ $white: #ffffff;
 
 ## Typography
 
-The Effenti corporate font is [Proxima Nova](https://typekit.com/fonts/proxima-nova). Try to use this font as much as possible in advertisements.
+The Effenti corporate font is [Proxima Nova](https://typekit.com/fonts/proxima-nova). Try to use this font as much as possible in advertisements. Although we use the complete font-family, try to favor the following font-weights:
+
+* Thin
+* Light
+* Regular
+* Black
 
 For anything web-related, we use ???
 
